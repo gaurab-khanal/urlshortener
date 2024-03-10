@@ -10,10 +10,30 @@
 ## Installation
 
 ```
+ git clone https://github.com/gaurab-khanal/urlshortener.git
+```
+
+## Server Installation
+
+```
+    cd server
     npm install
 ```
 
-## Start Locally
+## Start Server Locally
+
+```
+    npm run dev
+```
+
+## Client Installation
+
+```
+    cd client
+    npm install
+```
+
+## Start Client Locally
 
 ```
     npm run dev
